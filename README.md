@@ -30,7 +30,7 @@ Deploying on Heroku and Docker, an API to build a machine learning prediction mo
     </li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#resources">Contributing</a></li>
+    <li><a href="#resources">Resources</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
