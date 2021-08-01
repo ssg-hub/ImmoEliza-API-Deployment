@@ -30,6 +30,7 @@ Deploying on Heroku and Docker, an API to build a machine learning prediction mo
     </li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#resources">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
@@ -79,6 +80,10 @@ Run the api on your local machine
 3. Commit your Changes (`git commit -m 'Add some NewFeature'`)
 4. Push to the Branch (`git push origin feature/NewFeature`)
 5. Open a Pull Request
+
+<!-- RESOURCES -->
+## Resources
+[Flask API](https://www.tutorialspoint.com/flask/flask_quick_guide.htm) , [Saving the model](https://machinelearningmastery.com/save-load-machine-learning-models-python-scikit-learn/), [Build Docker images](https://devcenter.heroku.com/articles/build-docker-images-heroku-yml#getting-started), [Deploying on Heroku](https://devcenter.heroku.com/articles/git#tracking-your-app-in-git)
 
 <!-- LICENSE -->
 ## License
